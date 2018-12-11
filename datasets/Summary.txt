@@ -1,0 +1,28 @@
+Camera Angle:
+Camera Height: 75 cm
+
+
+Action1
+-------
+Distance: 1.5 m
+BB - 26544, w - 102, h - 235
+total pixels - 14954
+Step - 6, 7
+
+
+Distance: 2 m
+BB - 15840, w - 80, h - 198, DepthDiff = 2.5 - 1.5 = 1m 
+total pixels - 9660
+Step - 4, 5
+
+
+Distance: 2.5 m
+BB - 12006, w - 69, h - 174, DepthDiff = 3.13 - 2.09 = 1.4m
+total pixels - 6917
+Step - 2, 3
+
+
+Distance: 3 m
+BB - 9145, w - 59, h - 155, DepthDiff = 3.5 - 2.5 = 1m (3518 - 2571 =~ 1000)
+total pixels - 5380
+Step - 1, 2
